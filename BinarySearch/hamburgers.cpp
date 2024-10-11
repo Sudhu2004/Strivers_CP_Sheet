@@ -7,7 +7,7 @@ int nb, nc, ns;
 int lb, lc, ls;
 ll fb, fc, fs;
 
-//i have nb,nc,ns brea,cheese and sausage
+//i have nb,nc,ns bread,cheese and sausage
 //i need lb,lc,ls to make a single burger, assuming i would make x
 //the function returns the extra money needed
 ll price(ll x)
